@@ -28,18 +28,6 @@ Karena project dikerjakan secara solo, seluruh tugas dan pekerjaan dilakukan ole
 
 ---
 
-## Screenshot Aplikasi
-
-| Halaman | Screenshot |
-|---------|------------|
-| Login Page | ![Login Page](screenshots/login_page.png) |
-| Home Page | ![Home Page](screenshots/home_page.png) |
-| Add Item Page | ![Add Item Page](screenshots/add_item_page.png) |
-| Light/Dark Mode Toggle | ![Light/Dark Mode](screenshots/light_dark_mode.png) |
-| Halaman Setelah Tema Diubah | ![Tema Diubah](screenshots/theme_changed.png) |
-
----
-
 ## Cara Menggunakan Aplikasi
 
 1. Buka aplikasi → muncul **Login Page**.
